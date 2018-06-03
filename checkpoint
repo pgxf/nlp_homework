@@ -1,0 +1,2 @@
+model_checkpoint_path: "ptb_lstmlm.weights"
+all_model_checkpoint_paths: "ptb_lstmlm.weights"
